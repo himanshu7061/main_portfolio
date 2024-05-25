@@ -76,15 +76,15 @@ export const navItems = [
       des: "Explore The Brainwave ChatAI is an innovative interface that revolutionizes the way users interact with AI-generated content using React.js & GPT3.",
       img: "/p1.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/vite.svg"],
-      link: "https://github.com/himanshu7061/Brainwave-repo",
+      link: "https://brainwavechatai.netlify.app/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      title: "My First Portfolio",
+      des: "By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations.",
+      img: "/p2.jpg",
+      iconLists: ["/re.svg", "/tail.svg", "/three.svg"],
+      link: "https://himanshuprojectportfolio.netlify.app/",
     },
     {
       id: 3,
@@ -92,7 +92,8 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "",
+      
     },
     {
       id: 4,
@@ -100,7 +101,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "",
     },
   ];
   
@@ -205,14 +206,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/himanshu7061"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link: "https://x.com/home"
     },
     {
       id: 3,
       img: "/link.svg",
-      link:"https://www.instagram.com/himanshu_k07/",
+      link:"https://www.linkedin.com/in/himanshu-kumar-9ba8a01b8/",
     },
   ];
