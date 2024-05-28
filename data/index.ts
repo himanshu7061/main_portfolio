@@ -89,7 +89,7 @@ export const navItems = [
     {
       id: 3,
       title: "Type Master",
-      des: "Type provides a complete instructional keyboarding course leading the trainee from the basics all the way to professional, fast touch-type technique.",
+      des: "TypeMaster provides a complete instructional keyboarding course leading the trainee from the basics all the way to professional, fast touch-type technique.",
       img: "/p3.jpg",
       iconLists: ["/html.svg", "/css.svg", "/js.svg"],
       link: "https://type-master-auto.netlify.app/",
